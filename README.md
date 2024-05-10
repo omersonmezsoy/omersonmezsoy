@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Ömer</h1>
 
-**I am constantly adding new skills to my data science repertoire. Particularly, I am interested in the subjects of statistics and machine learning. In short, everything related to generating knowledge from data fascinates me.**<br>
+**I am constantly adding new skills to my repertoire of software technologies and data science. Particularly, I am interested in software testing, statistics, and machine learning topics. Everything related to generating insights from data and software technologies fascinates me.**<br>
 
 -----------------------------------------------------------
 
